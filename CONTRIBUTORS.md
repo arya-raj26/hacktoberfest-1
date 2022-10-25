@@ -10,7 +10,7 @@
 - 
 
 #### Name: [ARYA RAJ](https://github.com/arya-raj26)
-- Place: Bihar, India
+- Place: Sheikhpura, India
 - Bio: Student <3
 - GitHub: [arya-raj26](https://github.com/arya-raj26)
 
